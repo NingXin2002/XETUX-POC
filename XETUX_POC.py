@@ -1,5 +1,4 @@
 """
-链接：https://mp.weixin.qq.com/s/I-3t2xcHSIT6VpEvHsrFlQ
 介绍：XETUX 系统 dynamiccontent.properties.xhtml 远程代码执行漏洞
 指纹：title="@XETUX" && title="XPOS" && body = "BackEnd"
 """
